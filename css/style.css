@@ -17,6 +17,30 @@ header {
 }
 
 .logo {
-    width: 200px;
+    width: 300px;
     padding-top: 90px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2, h3 {
+    color: #8c8c8c;
+}
+
+.scritta {
+    color: #3fb4e8;
+}
+
+.prima-foto {
+    width: 800px;
+}
+
+.seconda-foto {
+    width: 665px;
+}
+
+.descrizione {
+    font-weight: 600;
 }
